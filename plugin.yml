@@ -1,0 +1,9 @@
+---
+name: PlayerDetects
+author: keenanyafiqy
+version: 1.0.0
+main: keenanyafiqy\PlayerDetects\DetectMain
+api: 4.0.0
+description: Shows what random player are doing! (Extremely Annoying Plugin in Console)
+src-namespace-prefix: keenanyafiqy\PlayerDetects
+...
