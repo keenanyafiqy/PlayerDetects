@@ -15,7 +15,7 @@ This plugin is on development. So help me if you want to by making a pull reques
 - Go to `plugin_list.yml` and then type `PlayerDetects` in the middle of `[]`
 
 # List Events Used
-This plugin is using **38 PLAYER EVENTS** (literally all) to make this works
+This plugin is using **36 PLAYER EVENTS** (almost all) to make this works
 
 # Idea
 This idea plugin was from me ([@keenanyafiqy](https://github.com/keenanyafiqy))
