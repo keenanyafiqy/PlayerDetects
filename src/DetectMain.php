@@ -81,7 +81,7 @@ class DetectMain extends PluginBase implements Listener
     
     public function onPlayerSleep(PlayerBedEnterEvent $event): void
     {
-        $playername = $evt->getName()
+        $playername = $evt->getPlayer()->getName()
         $this->getLogger()->info($playername . " is now sleeped!")
     }
 }
